@@ -4,9 +4,4 @@
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 
-<div>
-
-<a style="text-align:center;"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcw1217&show_icons=true&theme=radical) </a>
-
-</div> 
 
